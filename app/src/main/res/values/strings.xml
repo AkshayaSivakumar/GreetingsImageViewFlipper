@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Greetings</string>
+    <string name="action_pause">Pause</string>
+    <string name="action_play">Play</string>
+</resources>
